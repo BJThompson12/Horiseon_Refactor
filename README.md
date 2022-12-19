@@ -16,6 +16,14 @@ N/A
 
 Code base is to display the Horiseon webpsite with proper accessibility.
 
+## Screenshot
+
+<img src="./bj/Users/thompsonpro2021/Desktop/Repos/GT-Coding-Bootcamp/Projects/1_Module_Challenge/Horiseon_Refactor/assets/images/bjthompson12.github.io_Horiseon_Refactor_.png>
+
+## Deployment
+
+<a href="https://bjthompson12.github.io/Horiseon_Refactor/"></a>
+
 ## Credits
 
 N/A
