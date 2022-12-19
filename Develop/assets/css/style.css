@@ -1,3 +1,4 @@
+/******** CSS for Elements *******/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -50,16 +51,17 @@ header a {
 p {
     font-size: 16px;
 }
-
-#hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+footer {
+    padding: 30px;
+    clear: both;
+    text-align: center;
 }
-/* Styling for content Section */
+
+footer h2 {
+    font-size: 20px;
+}
+/******** CSS for Class Selectors *******/
+
 .content {
     width: 75%;
     display: inline-block;
@@ -117,13 +119,13 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/******** CSS for IDs *******/
 
-footer {
-    padding: 30px;
-    clear: both;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
+#hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
 }
