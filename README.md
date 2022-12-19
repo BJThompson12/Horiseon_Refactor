@@ -22,7 +22,7 @@ Code base is to display the Horiseon webpsite with proper accessibility.
 
 ## Deployment
 
-<a href="https://bjthompson12.github.io/Horiseon_Refactor/"></a>
+<a href="https://bjthompson12.github.io/Horiseon_Refactor/">Deployed Application</a>
 
 ## Credits
 
