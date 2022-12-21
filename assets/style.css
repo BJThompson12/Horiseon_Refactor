@@ -68,7 +68,7 @@ footer h2 {
     margin-left: 20px;
 }
 /* Child Combinator - <selector> > <element> {} "will apply to all children under but NOT the nested elements */
-.content > div {
+.content > article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -104,7 +104,7 @@ footer h2 {
     background-color: #2589bd;
 }
 
-.benefits > div {
+.benefits > article {
     margin-bottom: 32px;
     color: #ffffff;
 }
